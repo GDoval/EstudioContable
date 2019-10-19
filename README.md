@@ -31,5 +31,5 @@ Para armar un ambiente de test local seguir estos pasos:
 
 ## Previsualización 
 
-  Colocar el link de github.io
+  [Link](https://gdoval.github.io/EstudioContable/.)
 
