@@ -14,12 +14,12 @@ https://trello.com/b/ZtoprRqY/estudio-contable
 
 Para armar un ambiente de test local seguir estos pasos:
   
-  a. Instalar `npm` en la distro de Linux que estemos usando, o en `WSL` para Win 10.
-  b. Clonar el repo en el directorio donde vamos a guardar los archivos de la página.
-  c. Dentro del repo correr el comando `npm install`.
-  d. Para levantar el servidor local correr el comando `npm start`. Dentro del archivo `gulpfile.js` se especifican los task que se corren
+  - Instalar `npm` en la distro de Linux que estemos usando, o en `WSL` para Win 10.
+  - Clonar el repo en el directorio donde vamos a guardar los archivos de la página.
+  - Dentro del repo correr el comando `npm install`.
+  - Para levantar el servidor local correr el comando `npm start`. Dentro del archivo `gulpfile.js` se especifican los task que se corren
   al inicio.
-  e. Listo.
+  - Listo.
 
 
 
