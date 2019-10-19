@@ -7,7 +7,7 @@ https://trello.com/b/ZtoprRqY/estudio-contable
 
 
 1. [Instalación local](https://github.com/GDoval/EstudioContable#instalaci%C3%B3n-local)
-2. [Deploy](https://github.com/GDoval/EstudioContable/new/master?readme=1#deploy)
+2. [Deploy](https://github.com/GDoval/EstudioContable#deploy)
 3. [Previsualización](https://github.com/GDoval/EstudioContable/new/master?readme=1#previsualizaci%C3%B3n)
 
 ## Instalación local
