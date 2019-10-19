@@ -27,7 +27,7 @@ Para armar un ambiente de test local seguir estos pasos:
 ## Deploy
   
   La página se encuentra hosteada en Elserver.com (vence en Enero del 2020). El link para entrar al panel de control es [este](https://panel.elserver.com/#/contabogas.com.ar/site/)
-  Subir los archivos usando FileZilla o cualquier otro cliente de FTP. La página actual se encuentra dentro del directorio `htdocs`
+  Subir los archivos usando FileZilla o cualquier otro cliente de FTP. La página original se encuentra dentro del directorio `htdocs`
 
 ## Previsualización 
 
