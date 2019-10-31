@@ -46,13 +46,12 @@
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: #42043f;
+    color: #f2f3f3;
     border: 0;
     background-color: $primary;
     @include heading-font;
   }
   .navbar-brand {
-    color: #42043f;
     @include script-font;
     &.active,
     &:active,
