@@ -1,20 +1,46 @@
 // Styling for the footer
 .footer {
-  padding: 25px 0;
-  text-align: center;
-  span.copyright {
-    font-size: 90%;
-    line-height: 40px;
-    text-transform: none;
-    @include heading-font;
+  background: #152F4F;
+  color:white;
+  
+  .links{
+    ul {list-style-type: none;}
+    li a{
+      color: white;
+      transition: color .2s;
+      &:hover{
+        text-decoration:none;
+        color:#4180CB;
+        }
+    }
+  }  
+  .about-company{
+    i{font-size: 25px;}
+    a{
+      color:white;
+      transition: color .2s;
+      &:hover{color:#4180CB}
+    }
+  } 
+  .location{
+    i{font-size: 18px;}
   }
-  ul.quicklinks {
-    font-size: 90%;
-    line-height: 40px;
-    margin-bottom: 0;
-    text-transform: none;
-    @include heading-font;
-  }
+  .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+  // padding: 25px 0;
+  // text-align: center;
+  // span.copyright {
+  //   font-size: 90%;
+  //   line-height: 40px;
+  //   text-transform: none;
+  //   @include heading-font;
+  // }
+  // ul.quicklinks {
+  //   font-size: 90%;
+  //   line-height: 40px;
+  //   margin-bottom: 0;
+  //   text-transform: none;
+  //   @include heading-font;
+  // }
 }
 
 ul.social-buttons {
