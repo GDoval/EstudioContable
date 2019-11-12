@@ -70,3 +70,23 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:900');
+
+svg {
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  top: calc(50% - 24px);
+  left: calc(50% - 24px);
+}
+
+text {
+  fill: #35322a;
+  filter: url('#money');
+  font-family: 'Playfair Display', 'Georgia', serif;
+  font-size: 80px;
+  font-weight: 900;
+  text-align: center;
+  align-self: center;
+  align-items: center;
+}
